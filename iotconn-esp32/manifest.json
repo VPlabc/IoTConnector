@@ -1,0 +1,9 @@
+{
+  "device": "iotconn-esp32",
+  "version": "0.2.0",
+  "secure_version": 0,
+  "url": "https://raw.githubusercontent.com/VPlabc/IoTConnector/main/iotconn-esp32/iotconnecter-0.2.0.bin",
+  "sig": "",
+  "sha256": "2b88ae3dbc0559247132d5a6c94d953885efd91027f0ef09460167ee4fb40d07",
+  "size": 1442496
+}
